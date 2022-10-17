@@ -1,0 +1,7 @@
+# Example
+This is only an example.
+
+Welcome and enjoy {{ ctx.name }}
+    but your real name is {{ env["USER"] }}
+
+goodbye
